@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'dotenv'
-gem 'discordrb', git: 'git://github.com/meew0/discordrb.git'
+gemspec name: 'discordrb'
+gemspec name: 'discordrb-webhooks', development_group: 'webhooks'
