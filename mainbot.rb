@@ -1,6 +1,6 @@
 require 'discordrb'
 
-bot = Discordrb::Bot.new token: 'NDI5NjEyNTg1ODI3MTcyMzYy.DcL_WA.oofZvwZRsA4HdiqfDc-Xag_x0KA'
+bot = Discordrb::Bot.new token: 'FUCK U'
 botprefix='d!'
 bot.message(with_text: botprefix+'ping') do |event|
   m = event.respond('Pong!')
