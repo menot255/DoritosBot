@@ -40,4 +40,4 @@ prefix_proc = proc do |message|
 end
 
 # Setup a new bot with our prefix proc
-bot = Discordrb::Commands::CommandBot.new(token: 'NDI5NjEyNTg1ODI3MTcyMzYy.DcL_WA.oofZvwZRsA4HdiqfDc-Xag_x0KA', prefix: prefix_proc)
+bot = Discordrb::Commands::CommandBot.new(token: 'Ы', prefix: prefix_proc)
